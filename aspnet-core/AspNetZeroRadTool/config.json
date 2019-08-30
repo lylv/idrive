@@ -1,0 +1,10 @@
+﻿{
+  "CompanyName": "iRender",
+  "ProjectName": "iDrive",
+  "ProjectType": "ProjectType",
+  "ProjectVersion":"ProjectVersion",
+  "ApplicationAreaName": "App",
+  "AngularSrcPath": "\\..\\..\\angular\\src\\",
+  "CoreSrcPath": "\\..\\src\\",
+  "LicenseCode": "LicenseCodePlaceHolderToReplace"
+}
